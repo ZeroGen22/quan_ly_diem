@@ -70,4 +70,4 @@ st.pyplot(fig)
 
 # 7. Thông tin người tạo ở cuối trang với kích thước chữ nhỏ
 st.markdown("---")
-st.markdown("<p style='text-align: center; font-size: small;'>Họ tên: Gen - MSSV: [Nhập MSSV]</p>", unsafe_allow_html=True)
+st.markdown("<p style='text-align: center; font-size: small;'>Họ và tên: Nguyễn Trung Nguyên - STT: [39]</p>", unsafe_allow_html=True)
