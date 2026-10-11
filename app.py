@@ -1,6 +1,8 @@
+import matplotlib
+matplotlib.use('Agg')
 import streamlit as st
 import pandas as pd
-import matplotlib as plt
+import matplotlib.pyplot as plt
 
 st.title("QUẢN LÝ ĐIỂM SINH VIÊN")
 
